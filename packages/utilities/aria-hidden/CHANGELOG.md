@@ -1,5 +1,16 @@
 # @zag-js/aria-hidden
 
+## 2.0.0-next.5
+
+### Patch Changes
+
+- [`d5942ed`](https://github.com/chakra-ui/zag/commit/d5942ed9beb04c4ee43658b436986aee1f986c5b) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - - Fix modal dialogs inside a shadow root leaving the content
+  beside them in that shadow root exposed to screen readers.
+  - Fix hiding nothing when the dialog sits in a nested shadow root.
+- Updated dependencies []:
+  - @zag-js/dom-query@2.0.0-next.5
+
 ## 2.0.0-next.4
 
 ### Patch Changes
